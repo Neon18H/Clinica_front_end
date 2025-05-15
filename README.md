@@ -1,43 +1,14 @@
 # Clinica_front_end
 PC - Escritorio
-+--------------------------------------------------------+        
-| Navbar horizontal: Logo | Inicio | Servicios | Contacto|
-+--------------------------------------------------------+
-|                    Header con imagen                   |
-|           Título + botón "Agendar cita"                |
-+--------------------------------------------------------+       -> Navbar colapsado a botón tipo hamburguesa de Bootstrap.
-|             Sección de Servicios (Cards)               |       -> Las cards se apilan una debajo de otra.
-|           [Card1]     [Card2]     [Card3]              |       -> Todos los elementos se centran y se ajustan al ancho de pantalla.
-+--------------------------------------------------------+
-|             Footer con información de contacto         |
-+--------------------------------------------------------+
+![Captura de pantalla 2025-05-14 235841](https://github.com/user-attachments/assets/97be52c7-567c-4965-9d91-d10cabcfed74)
+🔄 Comportamiento:
+1. Navbar siempre visible con enlaces horizontales.
+2. Cards en una sola fila de tres columnas.
+3. Botones y textos centrados.
 
 Phone - Celular.
-+---------------------+
-| Menú hamburguesa ☰  |
-+---------------------+
-| Imagen + Título     |
-| Botón Agendar cita  |   -> Navbar colapsado a botón tipo hamburguesa de Bootstrap.
-+---------------------+   -> Todos los elementos se centran y se ajustan al ancho de pantalla.
-| Sección Servicios:  |
-| [Card1]             |
-| [Card2]             |
-| [Card3]             | 
-+---------------------+
-| Footer contacto     |
-+---------------------+
-
-+---------------------+
-| Menú hamburguesa ☰  |
-+---------------------+
-| Imagen + Título     |
-| Botón Agendar cita  |
-+---------------------+
-| Sección Servicios:  |
-| [Card1]             |
-| [Card2]             |
-| [Card3]             | (una bajo otra)
-+---------------------+
-| Footer contacto     |
-+---------------------+
-
+![Captura de pantalla 2025-05-14 235911](https://github.com/user-attachments/assets/dcff6bc2-58b1-4dcc-9d73-ba0332b17762)
+🔄 Comportamiento:
+1. Navbar siempre visible con enlaces horizontales.
+2. Cards en una sola fila de tres columnas.
+3. Botones y textos centrados.
