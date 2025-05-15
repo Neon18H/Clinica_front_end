@@ -16,3 +16,9 @@ Phone - Celular.
 1. Navbar siempre visible con enlaces horizontales.
 2. Cards en una sola fila de tres columnas.
 3. Botones y textos centrados.
+
+Java Script utilizado -> En el boton de confirmar cita -> lo que se busca o se genera es una alerta
+recordandole a el clinite que ha agendado correctamente.
+
+Personalizacioon. -> Estoy consumiendo una font de google para la fuente de mi clinica.
+Colores se fueron adapatadndo sugun lo que se queria. 
