@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+  background-image: url('../img/cabecera.png');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  color: rgb(43, 40, 40);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 20px;
+    
+}
+
+
+.bg-teal {
+  background-color: #00796b !important;
+}
+
+.btn-custom {
+  background-color: #00796b;
+  color: white;
+}
+
+.btn-custom:hover {
+  background-color: #004d40;
+}
+.btn-custom:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 121, 107, 0.5);
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+a {
+  color: #00796b;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
