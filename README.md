@@ -26,3 +26,18 @@ Phone - Celular.
 +---------------------+
 | Footer contacto     |
 +---------------------+
+
++---------------------+
+| Menú hamburguesa ☰  |
++---------------------+
+| Imagen + Título     |
+| Botón Agendar cita  |
++---------------------+
+| Sección Servicios:  |
+| [Card1]             |
+| [Card2]             |
+| [Card3]             | (una bajo otra)
++---------------------+
+| Footer contacto     |
++---------------------+
+
